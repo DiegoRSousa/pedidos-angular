@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "pedidos-angular"
+  "defaultProject": "pedidos-angular",
+  "cli": {
+    "analytics": "a7611539-e6cf-4546-b97a-487efbdc76d6"
+  }
 }
